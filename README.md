@@ -4,7 +4,7 @@
       <img width="80%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png" alt="Ultralytics YOLO banner"></a>
   </p>
 
-# End-to-end NMS free object detection optimised for edge devices
+### End-to-end NMS free object detection optimised for edge devices
 
 <div>
     <a href="https://console.paperspace.com/github/ultralytics/ultralytics"><img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Run Ultralytics on Gradient"></a>
